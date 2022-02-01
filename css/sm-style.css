@@ -1,0 +1,127 @@
+﻿body {
+	background: #f1f1f1;
+	max-height: 100%;
+	overflow: hidden;
+}
+
+#machine {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#cards-machine {
+	position: absolute;
+	top: 0;
+	width: 100%;
+	margin: 0 auto;
+	z-index: 3;
+}
+
+.cards {
+	display: inline-block;
+	margin-left: 10px;
+}
+
+.cards img {
+	width: 110px;
+}
+
+.icon-trofeu img {
+	width: 90px;
+}
+
+#victories-machine {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 175px;
+	margin-left: -120px;
+	z-index: 1;
+}
+
+.square {
+	width: 150px;
+	height: 40px;
+	background: #dd5167;
+	border-radius: 5px;
+}
+
+.coint {
+	padding-top: 5px;
+	color: #fff;
+	font: 400 18px Oswald;
+}
+
+#points-machine {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 175px;
+	margin-left: 120px;
+	z-index: 1;
+}
+
+.machine-img {
+	position: absolute;
+	top: 146px;
+	width: 100%;
+	margin: 0 auto;
+	z-index: 2;
+}
+
+#player-1 {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	margin: 0 auto;
+}
+
+#message {
+	position: absolute;
+	bottom: 300px;
+	width: 100%;
+	margin: 0 auto;
+	z-index: 99999;
+}
+
+#buttons {
+	position: absolute;
+	bottom: 320px;
+	width: 100%;
+	margin: 0 auto;
+	z-index: 99999;
+}
+
+#cards-j1 {
+	position: relative;
+	margin-top: 34.8%;
+	z-index: 3;
+}
+
+#victories-player1 {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+	bottom: 175px;
+	margin-left: -120px;
+	z-index: 1;
+}
+
+#points-player1 {
+	position: absolute;
+	width: 100%;
+	margin: 0 auto;
+	bottom: 175px;
+	margin-left: 120px;
+	z-index: 1;
+}
+
+.player-img {
+	position: absolute;
+	bottom: 140px;
+	width: 100%;
+	margin: 0 auto;
+	z-index: 2;
+}
