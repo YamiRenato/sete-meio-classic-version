@@ -10,7 +10,7 @@ Depois de muito tempo resolvi colocar em meu perfil do GitHub esse projeto que d
 
 ![](./img/header.png)
 
-## Sobre o Jogo
+## 🃏 Sobre o Jogo
 
 Sete e Meio é um jogo de Cartas que deve ser jogado com pelo menos 2 jogadores.
 
@@ -18,7 +18,17 @@ O objetivo do Jogo é conseguir marcar 7,5 Pontos. Ganha o Jogador que somar o n
 
 Para mais informações sobre como jogar e ver as regras completas [clique aqui](https://pt.wikipedia.org/wiki/Sette_e_mezzo).
 
-## Importante
+## 🚀 Testando o Jogo
+
+Para testar o Jogo basta apenas clonar ou baixar este repositório em sua máquina e abrir o arquivo index.html na raiz do projeto:
+
+Clonando o Repositório:
+
+```
+git clone https://github.com/YamiRenato/sete-meio-classic-version.git
+```
+
+## ❕ Importante
 
 Tenho total ciência de que meu código está longe de ser o mais funcional ou o mais bem organizado, mas mesmo assim quis colocar meu projeto no meu Perfil do GitHub.
 
@@ -26,7 +36,7 @@ Esse foi um dos primeiros projetos que desenvolvi totalmente sozinho e tenho mui
 
 _Então leve isso em consideração quando avaliar o código, pois eu era iniciante na época em questão :D_
 
-## Minhas Redes Sociais
+## 📱 Minhas Redes Sociais
 
 Linkedin: [@yamirenato](https://www.linkedin.com/in/yamirenato/) – renatog.gonalves9@gmail.com
 
